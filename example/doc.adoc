@@ -1,0 +1,25 @@
+= Example
+:author: Andreas Wenzelhuemer
+:email: <S1910307106@fhooe.at>
+:reproducible:
+:experimental:
+:listing-caption: Listing
+:source-highlighter: rouge
+:src: ./src
+:img: ./img
+:toc:
+:numbered:
+:toclevels: 5
+:rouge-style: github
+
+== Test
+== Another Test
+
+.Test.java
+[source,java]
+----
+include::{src}/Test.java[]
+----
+
+.Awesome landscape
+image::{img}/test.jpg[]
