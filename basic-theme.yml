@@ -23,19 +23,12 @@ font:
       bold_italic: JetBrainsMono-BoldItalic.ttf
     # M+ 1mn supports ASCII and the circled numbers used for conums
     M+ 1mn:
-      normal: M1MnRegular-M2Gn.ttf
-      bold: M1MnBold-876J.ttf
-      italic: M1MnRegular-M2Gn.ttf
-      bold_italic: M1MnRegular-M2Gn.ttf
+      normal: Mplus2-Regular.ttf
+      bold: Mplus2-Bold.ttf
+      italic: Mplus2-Regular.ttf
+      bold_italic: Mplus2-Regular.ttf
     # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
     # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
-    M+ 1p Fallback:
-      normal: MPLUS1p-Regular.ttf
-      bold: MPLUS1p-Bold.ttf
-      italic: MPLUS1p-Regular.ttf
-      bold_italic: MPLUS1p-Regular.ttf
-  fallbacks:
-    - M+ 1p Fallback
 base:
   font_family: Rubik
   font_color: #2e3440
