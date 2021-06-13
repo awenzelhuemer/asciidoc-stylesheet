@@ -101,6 +101,7 @@ literal:
   font_family: Jetbrains Mono
 code:
   font_family: Jetbrains Mono
+  font_size: 8
 conum:
   font_family: M+ 1mn
   font_color: $literal_font_color
